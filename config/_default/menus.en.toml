@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Join Us"
+url = "https://discord.gg/8XKe3gyCZG"
+identifier = "06uzxCGKOZ"
+weight = 9999
+
+[[main]]
+pre = "instagram"
+url = "https://www.instagram.com/gardenstatealliance/"
+identifier = "5r6RKMq3Cn"
+weight = 9999
+
+[[footer]]
+none = "none"
