@@ -1,4 +1,4 @@
-To bring STEM to the community is as important as learning its principles. The New Jersey Garden State Alliance has many First Tech Challenge (FTC) teams committed to advancing technology and aiding resources to people interested in learning. Members of First Tech Challenge not only learn to code/design, but also see their ideas come to life. Though this is a competitive challenge, we also show gracious professionalism through collaboration, mentoring rookie teams, helping code/design, and scrimmaging against each other. Please check the news section for any up-and-coming events!
+Empowering the next generation of innovators, The New Jersey Garden State Alliance’s First Tech Challenge teams are fostering STEM education and inspiring community impact through hands-on learning and collaboration. Our teams are dedicated to providing a supportive environment where students can explore their passions, develop essential skills, and make a positive difference in their communities.
 
 {{< timeline >}}
 
