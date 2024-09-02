@@ -110,7 +110,7 @@ Stay connected with the Garden State Alliance by following us on Instagram. See 
     <div class="team-number">FTC 23268</div>
     <div class="team-location">Hackettstown, NJ</div>
     <div class="team-description">
-      writing
+      Founded in 2023, Ultraviolet is currently a small community team (>5 members). We strive to spread STEM and FIRST while building the best robot possible. Co-creation of the Garden State Alliance and awards such as Inspire and Winning Alliance Captain at our first league tournament are evidence of our multidisciplinary dedication and effort.
     </div>
     <div class="team-links">
       <a href="https://www.instagram.com/ultraviolet23268/" target="_blank">Instagram</a>
@@ -149,7 +149,7 @@ Stay connected with the Garden State Alliance by following us on Instagram. See 
     <div class="team-number">FTC 14481</div>
     <div class="team-location">Plainsboro, NJ</div>
     <div class="team-description">
-      Don't Blink is a veteran team. They won the world championship in 2023.
+      We are FTC team 14481 Don't Blink, the FIRST Tech Challenge World Champions for the 2022-2023 robotics season, and the Regional District Champions and State Division Finalists of the 2023-2024 season. Comprised of 15 talented high schoolers from various schools in New Jersey, we strive to push the boundaries of innovation, education, and robotics.
     </div>
     <div class="team-links">
       <a href="https://www.youtube.com/channel/UCHIJOnBnSdT6l3RkAbFFjpQ" target="_blank">YouTube</a> |
