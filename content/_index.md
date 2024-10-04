@@ -225,6 +225,32 @@ Stay connected with the Garden State Alliance by following us on Instagram. See 
   </div>
 
   <div class="team-card">
+    <img src="/logos/goose.png" alt="team logo" class="team-logo">
+    <div class="team-name">Cosmic Goose</div>
+    <div class="team-number">FTC 8902</div>
+    <div class="team-location">Glen Rock, NJ</div>
+    <div class="team-description">
+      We are Team 8902 Cosmic Goose, one of two teams based in Glen Rock, NJ. Our goal is to foster STEM in our community and make the FTC competition space a more inclusive and diverse place. We pride ourselves on our extensive competition history in addition to number state and regional level awards such as the Compass Award, Innovate Award, and Finalist Alliance Captain. 
+    </div>
+    <div class="team-links">
+      <a href="https://www.instagram.com/cosmicgoose8902" target="_blank">Instagram</a>
+    </div>
+  </div>
+
+  <div class="team-card">
+    <img src="/logos/pigeon.png" alt="team logo" class="team-logo">
+    <div class="team-name">Galactic Pigeon</div>
+    <div class="team-number">FTC 23314</div>
+    <div class="team-location">Glen Rock, NJ</div>
+    <div class="team-description">
+      We are team 23314 Galactic Pigon! Founded in the 2023-2024 season, the Galactic Pigeon was the state championship winning alliance in its debut season. As we continue to reach to create better robots, we also aim to grow the FIRST and STEM community.
+    </div>
+    <div class="team-links">
+      <a href="https://www.instagram.com/galacticpigeon23314" target="_blank">Instagram</a>
+    </div>
+  </div>
+
+  <div class="team-card">
     <img src="/logos/techtonic-logo.png" alt="team logo" class="team-logo">
     <div class="team-name">Tech-tonic</div>
     <div class="team-number">FTC 11697</div>
