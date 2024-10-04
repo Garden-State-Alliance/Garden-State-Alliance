@@ -276,4 +276,18 @@ Stay connected with the Garden State Alliance by following us on Instagram. See 
       <a href="https://www.instagram.com/12441cvtd?igsh=eG9meHczM3MyMnVn" target="_blank">Instagram</a>
     </div>
   </div>
+
+  <div class="team-card">
+    <img src="/logos/ironlions-logo.png" alt="team logo" class="team-logo">
+    <div class="team-name">Iron Lions</div>
+    <div class="team-number">FTC 19922</div>
+    <div class="team-location">Salt Lake City, Utah</div>
+    <div class="team-description">
+      We are Team 19922 the Iron Lions based out of Rowland Hall in Salt Lake City, Utah. We have a sister team, team 16748 the Monochromats, and are jointly committed to making the FTC community a safer and better place. We are the only LGBTQ+ of FIRST Partner Team in Utah between FRC and FTC. Last season we made the playoffs at every event and were invited to compete at CRI. We have consistently sent members to the World Championship in Houston via Deans List. Our team has been creating novel and complex systems in both the hardware and software realms, most notably Sovereign and Panopticon. As we go into our 4th season as a team and 6th season as a school we wish the rest of the FTC and FIRST communities as we Dive into this season!
+    </div>
+    <div class="team-links">
+      <a href="https://rh-robotics.github.io/19922.html" target="_blank">Website</a> |
+      <a href="https://www.instagram.com/rh_iron_lions" target="_blank">Instagram</a>
+    </div>
+  </div>
 </div>
